@@ -1,0 +1,4 @@
+--- !ruby/object:Game
+guesses: 1
+word: gloriously
+placeholder: '_l_ _ us_y_ _ _ _ _ '

@@ -1,0 +1,4 @@
+--- !ruby/object:Game
+guesses: 8
+word: mummer
+placeholder: '_u_ _r_ _ _ '

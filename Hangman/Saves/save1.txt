@@ -1,0 +1,4 @@
+--- !ruby/object:Game
+guesses: 5
+word: conspectus
+placeholder: '_ _ _ _ u _ _ _ _ _ '
